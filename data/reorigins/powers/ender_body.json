@@ -1,7 +1,7 @@
 {
   "type": "origins:action_on_callback",
   "name": "Ender Body",
-  "description": "Your Body resembles that of your fellow Endermen, making you taller and able to reach further.",
+  "description": "Your Body resembles that of your fellow Endermen, making you taller.",
   "entity_action_chosen": {
     "type": "apoli:and",
     "actions": [

@@ -1,33 +1,65 @@
 {
-  "type": "origins:recipe",
+  "type": "origins:multiple",
   "name": "Merling Trident",
   "description": "You can craft Tridents.",
-  "recipe": {
-    "id": "origins:merling_trident",
-    "type": "minecraft:crafting_shaped",
-    "pattern": [
-      "#H#",
-      " D ",
-      " P "
-    ],
-    "key": {
-      "#": {
-        "item": "minecraft:prismarine_shard"
+  "craft_heart_trident": {
+    "type": "origins:recipe",
+    "recipe": {
+      "id": "origins:merling_trident",
+      "type": "minecraft:crafting_shaped",
+      "pattern": [
+        "#H#",
+        " D ",
+        " P "
+      ],
+      "key": {
+        "#": {
+          "item": "minecraft:prismarine_shard"
+        },
+        "H": {
+          "item": "minecraft:heart_of_the_sea"
+        },
+        "D": {
+          "item": "minecraft:diamond"
+        },
+        "P": {
+          "item": "minecraft:prismarine_crystals"
+        }
       },
-      "H": {
-        "item": "minecraft:heart_of_the_sea"
-      },
-      "D": {
-        "item": "minecraft:diamond"
-      },
-      "P": {
-        "item": "minecraft:prismarine_crystals"
+      "result": {
+        "item": "minecraft:trident",
+        "count": 1
       }
-    },
-    "result": {
-      "item": "minecraft:trident",
-      "count": 1
-    },
-    "group": "trident"
+    }
+  },
+  "craft_star_trident": {
+    "type": "origins:recipe",
+    "recipe": {
+      "id": "origins:merling_trident",
+      "type": "minecraft:crafting_shaped",
+      "pattern": [
+        "#S#",
+        " D ",
+        " P "
+      ],
+      "key": {
+        "#": {
+          "item": "minecraft:prismarine_shard"
+        },
+        "S": {
+          "item": "minecraft:nether_star"
+        },
+        "D": {
+          "item": "minecraft:diamond"
+        },
+        "P": {
+          "item": "minecraft:prismarine_crystals"
+        }
+      },
+      "result": {
+        "item": "minecraft:trident",
+        "count": 1
+      }
+    }
   }
 }
