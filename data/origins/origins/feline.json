@@ -1,21 +1,21 @@
 {
-	"powers": [
-		"origins:fall_immunity",
-		"origins:sprint_jump",
-		"origins:velvet_paws",
-		"origins:nine_lives",
-		"origins:weak_arms",
-		"origins:scare_creepers",
-		"origins:cat_vision",
-		"re_origins:feline_sounds",
-		"re_origins:sharp_claws",
-		"re_origins:natural_hunter",
-		"re_origins:seventh_sense"
-	],
-	"icon": {
-		"item": "minecraft:salmon"
-	},
-	"order": 0,
-	"impact": 2,
-	"loading_priority": 1
+  "powers": [
+    "origins:fall_immunity",
+    "origins:sprint_jump",
+    "origins:velvet_paws",
+    "origins:nine_lives",
+    "origins:weak_arms",
+    "origins:scare_creepers",
+    "origins:cat_vision",
+    "reorigins:feline_sounds",
+    "reorigins:sharp_claws",
+    "reorigins:natural_hunter",
+    "reorigins:seventh_sense"
+  ],
+  "icon": {
+    "item": "minecraft:salmon"
+  },
+  "order": 0,
+  "impact": 2,
+  "loading_priority": 1
 }

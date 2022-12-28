@@ -1,23 +1,23 @@
 {
-	"powers": [
-		"origins:fire_immunity",
-		"origins:nether_spawn",
-		"origins:burning_wrath",
-		"origins:hotblooded",
-		"origins:water_vulnerability",
-		"origins:flame_particles",
-		"origins:damage_from_snowballs",
-		"origins:damage_from_potions",
-		"re_origins:firecharged_projectile",
-		"re_origins:blazing_touch",
-		"re_origins:revved_up",
-		"re_origins:thermal_lift",
-		"re_origins:blazeborn_sounds"
-	],
-	"icon": {
-		"item": "minecraft:blaze_powder"
-	},
-	"order": 1,
-	"impact": 3,
-	"loading_priority": 1
+  "powers": [
+    "origins:fire_immunity",
+    "origins:nether_spawn",
+    "origins:burning_wrath",
+    "origins:hotblooded",
+    "origins:water_vulnerability",
+    "origins:flame_particles",
+    "origins:damage_from_snowballs",
+    "origins:damage_from_potions",
+    "reorigins:firecharged_projectile",
+    "reorigins:blazing_touch",
+    "reorigins:revved_up",
+    "reorigins:thermal_lift",
+    "reorigins:blazeborn_sounds"
+  ],
+  "icon": {
+    "item": "minecraft:blaze_powder"
+  },
+  "order": 1,
+  "impact": 3,
+  "loading_priority": 1
 }

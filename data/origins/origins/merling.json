@@ -1,22 +1,22 @@
 {
-	"powers": [
-		"origins:water_breathing",
-		"origins:water_vision",
-		"origins:aqua_affinity",
-		"origins:swim_speed",
-		"origins:like_water",
-		"origins:aquatic",
-		"origins:conduit_power_on_land",
-		"origins:air_from_potions",
-		"re_origins:merling_trident",
-		"re_origins:zora_dash",
-		"re_origins:aquadynamic",
-		"re_origins:merling_sounds"
-	],
-	"icon": {
-		"item": "minecraft:trident"
-	},
-	"order": 0,
-	"impact": 3,
-	"loading_priority": 1
+  "powers": [
+    "origins:water_breathing",
+    "origins:water_vision",
+    "origins:aqua_affinity",
+    "origins:swim_speed",
+    "origins:like_water",
+    "origins:aquatic",
+    "origins:conduit_power_on_land",
+    "origins:air_from_potions",
+    "reorigins:merling_trident",
+    "reorigins:zora_dash",
+    "reorigins:aquadynamic",
+    "reorigins:merling_sounds"
+  ],
+  "icon": {
+    "item": "minecraft:trident"
+  },
+  "order": 0,
+  "impact": 3,
+  "loading_priority": 1
 }

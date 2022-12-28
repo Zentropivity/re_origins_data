@@ -85,14 +85,14 @@
             }
           ]
         },
-        "command_at_hit": "function re_origins:web_shoot_hit",
+        "command_at_hit": "function reorigins:web_shoot_hit",
         "command_along_ray": "particle minecraft:dust 1 1 1 1 ~ ~ ~ 0 0 0 0.1 1 normal @a",
         "command_step": 0.1,
         "command_along_ray_only_on_hit": true
       },
       "else_action": {
         "type": "origins:raycast",
-        "distance": 64,
+        "distance": 32,
         "block": true,
         "entity": false,
         "shape_type": "collider",
@@ -126,7 +126,7 @@
             }
           ]
         },
-        "command_at_hit": "function re_origins:web_shoot_hit",
+        "command_at_hit": "function reorigins:web_shoot_hit",
         "command_along_ray": "particle minecraft:dust 1 1 1 1 ~ ~ ~ 0 0 0 0.1 1 normal @a",
         "command_step": 0.1,
         "command_along_ray_only_on_hit": true

@@ -1,19 +1,19 @@
 {
-	"powers": [
-		"origins:throw_ender_pearl",
-		"origins:water_vulnerability",
-		"origins:pumpkin_hate",
-		"origins:extra_reach",
-		"origins:ender_particles",
-		"origins:damage_from_potions",
-		"re_origins:recall",
-		"re_origins:ender_body",
-    "re_origins:enderian_sounds"
-	],
-	"icon": {
-		"item": "minecraft:ender_pearl"
-	},
-	"order": 1,
-	"impact": 2,
-	"loading_priority": 1
+  "powers": [
+    "origins:throw_ender_pearl",
+    "origins:water_vulnerability",
+    "origins:pumpkin_hate",
+    "origins:extra_reach",
+    "origins:ender_particles",
+    "origins:damage_from_potions",
+    "reorigins:recall",
+    "reorigins:ender_body",
+    "reorigins:enderian_sounds"
+  ],
+  "icon": {
+    "item": "minecraft:ender_pearl"
+  },
+  "order": 1,
+  "impact": 2,
+  "loading_priority": 1
 }

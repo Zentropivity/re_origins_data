@@ -52,11 +52,7 @@
         "conditions": [
           {
             "type": "origins:in_tag",
-            "tag": "originstweaks:golden_blocks"
-          },
-          {
-            "type": "origins:in_tag",
-            "tag": "originstweaks:golden_blocks_charm"
+            "tag": "reorigins:golden_blocks"
           }
         ]
       },
@@ -71,7 +67,7 @@
     "item_condition": {
       "type": "origins:ingredient",
       "ingredient": {
-        "tag": "originstweaks:golden_food"
+        "tag": "reorigins:golden_food"
       }
     }
   },
@@ -85,7 +81,7 @@
         "item_condition": {
           "type": "origins:ingredient",
           "ingredient": {
-            "tag": "originstweaks:golden_tools"
+            "tag": "reorigins:golden_tools"
           }
         }
       }
@@ -100,25 +96,25 @@
     "head": {
       "type": "origins:ingredient",
       "ingredient": {
-        "tag": "originstweaks:golden_armor"
+        "tag": "reorigins:golden_armor"
       }
     },
     "chest": {
       "type": "origins:ingredient",
       "ingredient": {
-        "tag": "originstweaks:golden_armor"
+        "tag": "reorigins:golden_armor"
       }
     },
     "legs": {
       "type": "origins:ingredient",
       "ingredient": {
-        "tag": "originstweaks:golden_armor"
+        "tag": "reorigins:golden_armor"
       }
     },
     "feet": {
       "type": "origins:ingredient",
       "ingredient": {
-        "tag": "originstweaks:golden_armor"
+        "tag": "reorigins:golden_armor"
       }
     },
     "tick_rate": 20

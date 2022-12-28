@@ -7,9 +7,9 @@
     "origins:burn_in_daylight",
     "origins:hunger_over_time",
     "origins:phantomize_overlay",
-    "re_origins:aurophobia",
-    "re_origins:spectral_wail",
-    "re_origins:phantom_sounds"
+    "reorigins:aurophobia",
+    "reorigins:spectral_wail",
+    "reorigins:phantom_sounds"
   ],
   "icon": {
     "item": "minecraft:phantom_membrane"

@@ -5,9 +5,8 @@
     "origins:carnivore",
     "origins:fragile",
     "origins:arthropod",
-    "re_origins:toxic_coating",
-    "re_origins:arthropod_appearance",
-    "re_origins:arachnid_sounds"
+    "reorigins:arthropod_appearance",
+    "reorigins:arachnid_sounds"
   ],
   "icon": {
     "item": "minecraft:spider_eye"

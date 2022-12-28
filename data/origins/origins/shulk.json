@@ -1,19 +1,19 @@
 {
-	"powers": [
-		"origins:shulker_inventory",
-		"origins:natural_armor",
-		"origins:strong_arms",
-		"origins:strong_arms_break_speed",
-		"origins:no_shield",
-		"origins:more_exhaustion",
-		"re_origins:protective_shell",
-		"re_origins:antigravity_bullet",
-		"re_origins:shulk_sounds"
-	],
-	"icon": {
-		"item": "minecraft:shulker_shell"
-	},
-	"order": 4,
-	"impact": 1,
-	"loading_priority": 1
+  "powers": [
+    "origins:shulker_inventory",
+    "origins:natural_armor",
+    "origins:strong_arms",
+    "origins:strong_arms_break_speed",
+    "origins:no_shield",
+    "origins:more_exhaustion",
+    "reorigins:protective_shell",
+    "reorigins:antigravity_bullet",
+    "reorigins:shulk_sounds"
+  ],
+  "icon": {
+    "item": "minecraft:shulker_shell"
+  },
+  "order": 4,
+  "impact": 1,
+  "loading_priority": 1
 }

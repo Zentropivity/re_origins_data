@@ -9,7 +9,7 @@
     "bar_index": 24,
     "condition": {
       "type": "origins:power_active",
-      "power": "originstweaks:climbing_toggle"
+      "power": "reorigins:climbing_toggle"
     }
   }
 }
