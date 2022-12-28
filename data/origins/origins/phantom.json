@@ -1,0 +1,20 @@
+{
+  "powers": [  
+    "origins:phantomize",
+    "origins:translucent",
+    "origins:phasing",
+    "origins:invisibility",
+    "origins:burn_in_daylight",
+    "origins:hunger_over_time",
+    "origins:phantomize_overlay",
+    "re_origins:aurophobia",
+    "re_origins:spectral_wail",
+    "re_origins:phantom_sounds"
+  ],
+  "icon": {
+    "item": "minecraft:phantom_membrane"
+  },
+  "order": 2,
+  "impact": 3,
+  "loading_priority": 1
+}

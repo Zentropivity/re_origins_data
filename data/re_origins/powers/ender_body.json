@@ -1,0 +1,30 @@
+{
+  "type": "origins:action_on_callback",
+  "name": "Ender Body",
+  "description": "Your Body resembles that of your fellow Endermen, making you taller and able to reach further.",
+  "entity_action_chosen": {
+    "type": "apoli:and",
+    "actions": [
+      {
+        "type": "apoli:execute_command",
+        "command": "scale set pehkui:height 1.29 @s"
+      },
+      {
+        "type": "apoli:execute_command",
+        "command": "scale set pehkui:model_width 1.2 @s"
+      },
+      {
+        "type": "apoli:execute_command",
+        "command": "scale set pehkui:eye_height 0.95 @s"
+      },
+      {
+        "type": "apoli:execute_command",
+        "command": "scale persist set true @s"
+      }
+    ]
+  },
+  "entity_action_lost": {
+    "type": "apoli:execute_command",
+    "command": "scale reset @s"
+  }
+}
